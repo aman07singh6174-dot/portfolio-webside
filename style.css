@@ -352,26 +352,6 @@ nav img {
     margin-top: 3.5px;
 }
 
-/* portfolio */
-
-#portfolio {
-    font-size: xx-large;
-    color: #e0e0e0;
-    margin: 20px;
-    padding: 20px;
-
-}
-
-#portfolio h1 {
-    margin-top: 10%;
-    font-family: monospace;
-    text-align: center;
-    color: #000;
-    text-decoration: underline;
-    background-color: #ffbf00;
-    border-radius: 20%;
-    border: 2px solid #fbf0f0;
-}
 
 /* ================= MOBILE (0px - 600px) ================= */
 @media (max-width: 600px) {
